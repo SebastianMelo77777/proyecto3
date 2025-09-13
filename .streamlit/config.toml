@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#7294a3ff" # magenta suave
+backgroundColor = "#0f0228ff" # azul muy oscuro
+secondaryBackgroundColor = "#1b0534ff"
+textColor = "#E8EAED"
+font = "sans serif"
