@@ -9,9 +9,7 @@
 ---
 
 ## 📐 Fórmula de la tasa
-\[
-\text{Tasa de homicidios} = \frac{\# \text{ homicidios en el municipio}}{\text{población del municipio}} \times 100,000
-\]
+Tasa de homicidios = (Número de homicidios en el municipio / Población del municipio) × 100,000
 
 ---
 
